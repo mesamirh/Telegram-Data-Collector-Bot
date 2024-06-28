@@ -1,6 +1,6 @@
-# TelegramDataCollectorBot
+# Telegram Data Collector Bot
 
-TelegramDataCollectorBot is a Node.js-based Telegram bot that facilitates the collection of user-submitted data and logs it into a CSV file. It provides a simple and efficient way to interact with users via Telegram, enabling them to submit data entries which are then securely stored in a structured format.
+Telegram Data Collector Bot is a Node.js-based Telegram bot that facilitates the collection of user-submitted data and logs it into a CSV file. It provides a simple and efficient way to interact with users via Telegram, enabling them to submit data entries which are then securely stored in a structured format.
 
 ## Features
 
